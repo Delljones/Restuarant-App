@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">9.1RestuarantAPP</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="PlacesApi">AIzaSyAE_6UyAh0fUyC-0vwHn71OXjXfThHqeGY</string>
+</resources>
